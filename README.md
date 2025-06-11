@@ -1,6 +1,8 @@
 [Link para Video demonstrando a usabilidade dos scripts 
 .](https://youtu.be/W-Yv8zkEI88)
 
+If you want to generate graphs based on the extracted files for analysis, [click here: Virus Share Logs](https://github.com/ViniSSBrandao/VirusShareLogs)
+
 ## available tools
 
 ### File separator and counter `file_counter_separator.sh`
